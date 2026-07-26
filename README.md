@@ -1,7 +1,5 @@
 # The Discount Trap: A Furniture Retail Profit Analysis
 
-![Dashboard](dashboard-screenshot.png)
-
 ## Project Overview
 
 This project analyses 1,350 furniture retail transactions to uncover 
