@@ -64,12 +64,17 @@ store average of 2.23% despite lower sales volume.
 
 ## Project Structure
 
+store-sales-performance-analysis/
+├── data/
+│   ├── store_sales_analysis_excel.xlsx
+│   └── store_sales_clean_1350rows.xlsx
 ├── sql/
-│ └── store_sales_queries.sql
+│   └── store_sales_queries.sql
 ├── documentation/
-│ └── project_documentation.docx
+│   ├── Project_Documentation.docx
+│   └── SQL_Query_Documentation.docx
 ├── dashboard/
-│ └── dashboard-screenshot.png
+│   └── power BI file. pbix
 └── README.md
 
 
